@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pathway</title>
+    <link rel="stylesheet" href="/css/science.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lobster&family=Mochiy+Pop+P+One&family=Roboto+Slab:wght@500&family=Rubik+Beastly&family=Sedgwick+Ave&family=Supermercado+One&family=Yeseva+One&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <title>Courses After 12th Science</title>
+  </head>
+  <body>
+    <nav>
+      <div class="logo">
+        <img src="images/logomain.png" alt="logo" style="max-height: 15vh;" />
+      </div>
+        <h2 id="nav_name">Science</h2>
+      </div>
+    </nav>
+    <div class="div-header">
+      <h2>List of Courses After 12th Science PCM Stream</h2>
+    </div>
+    <ul class="div-content">
+      <li class="div-content-title">1. Engineering (B.Tech/ B.E) Courses in</li>
+      <ul class="div-content-elements">
+        <li>Aeronautical Engineering</li>
+        <li>Automobile Engineering</li>
+        <li>Civil and Structural Engineering</li>
+        <li>Electronics & Communication Engineering</li>
+        <li>Industrial Engineering</li>
+        <li>Information Technology</li>
+        <li>Instrumentation & Control Engineering</li>
+        <li>Chemical Engineering</li>
+        <li>Mining Engineering</li>
+        <li>Electrical & Electronics Engineering</li>
+        <li>Marine Engineering</li>
+        <li>Biomedical Engineering</li>
+        <li>Biotechnology Engineering</li>
+        <li>Electronics and Power Engineering</li>
+        <li>Textile Engineering</li>
+        <li>Software Engineering</li>
+        <li>Agricultural Engineering</li>
+        <li>Genetic Engineering</li>
+        <li>Print & Media Technology</li>
+        <li>Artificial Engineering</li>
+        <li>Nuclear Engineering</li>
+        <li>Electrical Engineering</li>
+        <li>Dairy Technology</li>
+        <li>Robotics</li>
+        <li>Internet of things Engineering</li>
+        <li>Mechanical Engineering</li>
+      </ul>
+      <li class="div-content-title">2. Other Cources</li>
+      <ul class="div-content-elements">
+        <li>Architecture</li>
+        <li>Computer Application</li>
+        <li>Merchant Navy</li>
+        <li>
+          Bachelor of Science in Nautical Technology (3 years training at
+          Institute + 1 year at Sea).
+        </li>
+        <li>Bachelor of Technology in Naval Architecture and Ship Building.</li>
+        <li>
+          Higher National Diploma (HND) Nautical Science or Marine Engineering
+          (1-year course).
+        </li>
+        <li>Commercial Pilots</li>
+        <li>Defense</li>
+        <li>CS Programme</li>
+        <li>B.Sc Degree</li>
+        <li>Environmental Science</li>
+        <li>Hotel Management</li>
+        <li>Designing Courses</li>
+        <li>
+          Indian defense services (Army, Navy, and Air Forces) through the NDA
+          exam.
+        </li>
+      </ul>
+      <li class="div-content-title">3. B.Sc courses in</li>
+      <ul class="div-content-elements">
+        <li>Physics</li>
+        <li>Chemistry</li>
+        <li>Mathematics</li>
+        <li>Biology</li>
+        <li>Astronomy</li>
+        <li>Forensic Science</li>
+        <li>Geology</li>
+        <li>Agriculture</li>
+        <li>Information Technology</li>
+        <li>Statistics</li>
+        <li>Industrial Chemistry</li>
+        <li>Fashion Technology</li>
+        <li>Home Science</li>
+        <li>Nutrition</li>
+        <li>Clothing and Textile</li>
+        <li>Extension and communication</li>
+        <li>Nautical Science</li>
+        <li>Human Development and Family Studies</li>
+        <li>Fashion Design</li>
+        <li>Environmental Science</li>
+        <li>Aviation Sciences</li>
+      </ul>
+    </ul>
+    <div class="div-header">
+      <h2>List of Courses After 12th Science PCB Group</h2>
+    </div>
+    <ul class="div-content-elements">
+      <li>MBBS</li>
+      <li>BDS-Dentistry</li>
+      <li>BAMS-Ayurveda</li>
+      <li>BHMS-Homeopathy</li>
+      <li>BUMS-Unani</li>
+      <li>BNYS–Naturopathy & Yogic Science</li>
+      <li>BSMS – Siddha Medicine & Sciences</li>
+      <li>Physiotherapy (BPT)</li>
+      <li>Veterinary Science & Animal Husbandry (BVSc. AH)</li>
+      <li>B.Sc. Occupational Therapists</li>
+      <li>B.Sc. Nutrition and Dietetics</li>
+      <li>Integrated M.Sc</li>
+      <li>B.Sc. – Biotechnology</li>
+      <li>B.Sc. Bioinformatics</li>
+      <li>B.Sc Nursing</li>
+      <li>
+        B.Sc. (Dairy Technology/Nursing/ Radiology/ Prosthetics & Orthotics,
+        Optometry)
+      </li>
+      <li>B.Sc. Speech and Language Pathology</li>
+      <li>B.Sc. Anthropology</li>
+      <li>B.Sc. Radiography</li>
+      <li>B.Sc. Radiography</li>
+      <li>B.Sc. Rehabilitation Therapy</li>
+      <li>B.Sc. Food Technology</li>
+      <li>B.Sc Anthropology</li>
+      <li>B.Sc Microbiology</li>
+      <li>B.Sc. Horticulture</li>
+      <li>B.SC Pathology</li>
+      <li>B.Sc Sports Science</li>
+      <li>B.Sc Horticulture</li>
+      <li>B.Sc in Genetics</li>
+      <li>B.Sc In X-ray technology</li>
+      <li>B.Sc. Home Science/Forensic Science</li>
+      <li>Bachelor of Pharmacy</li>
+      <li>Bachelor in Environmental Science</li>
+      <li>BMLT (Medical Lab Technology)</li>
+      <li>Gynaecology</li>
+      <li>BOT (Occupational Therapy)</li>
+      <li>GNM and ANM</li>
+      <li>Paramedical Courses</li>
+      <li>Bachelor of Physiotherapy</li>
+      <li>Bachelor of Speech Therapy</li>
+      <li>Bachelor of Dialysis technology</li>
+      <li>B.Sc of Anaesthesia</li>
+      <li>B.Sc. of Optometry</li>
+      <li>B.Sc in Audiology</li>
+    </ul>
+    <div class="div-header">
+      <h2>List of Diploma Medical Courses after 12th</h2>
+    </div>
+    <ul class="div-content-elements">
+      <li>DOTT (Diploma In Operation Theatre Technology)</li>
+      <li>Diploma in X-ray Tehnology</li>
+      <li>Diploma In Medical Imaging and Radiography</li>
+      <li>Diploma In ECG (Electro Cardio Graph)</li>
+      <li>Diploma in Dialysis</li>
+      <li>Diploma Physiotherapy</li>
+      <li>Dental Hygienist</li>
+      <li>Anaesthesia Technology</li>
+      <li>Sanitary Inspector</li>
+      <li>Diploma in ECG Assistant</li>
+      <li>Dialysis, MRI, CT Scan Technician</li>
+      <li>Ophthalmic Technology</li>
+    </ul>
+    <div class="div-header">
+      <h2>Business & Commerce Courses after class 12th Science</h2>
+    </div>
+    <ul class="div-content-elements">
+      <li>B.Com- (3 years)</li>
+      <li>BA in Hotel Management</li>
+      <li>BA in Retail Management</li>
+      <li>B.Sc in Hotel Management</li>
+      <li>BA in Fashion Merchandising and Marketing</li>
+      <li>BA in Travel and Tourism Management</li>
+      <li>Bachelor of Business Economics</li>
+      <li>Bachelor of International Business and Finance</li>
+      <li>Management Studies</li>
+      <li>Bachelor of Business Administration (BBA)</li>
+      <li>Banking and Insurance (BBI-3 years)</li>
+      <li>Charted Accountancy (CA)</li>
+      <li>Company Secretary (CS)</li>
+    </ul>
+    <div class="div-header">
+      <h2>Humanities and Creative Courses after class 12 Science</h2>
+    </div>
+    <ul class="div-content-elements">
+      <li>Physical Education (BPE)</li>
+      <li>Bachelor of Arts in multiple disciplines</li>
+      <li>Hotel Management (BA/B.Sc)</li>
+      <li>Designing Courses (Interior design, product design, etc)</li>
+      <li>BFA Performing Arts (music/dance)</li>
+      <li>Mass-media/ Journalism Courses (BA, BMM)</li>
+      <li>Film/ Television Courses (BA, B.Sc)</li>
+      <li>Social Work (BSW)</li>
+      <li>Law (Integrated Masters in Law Course-5 year; LLB- 3years</li>
+    </ul>
+    <div class="div-header">
+      <h2>Diploma Courses after Class 12th Science Stream</h2>
+    </div>
+    <ul class="div-content-elements">
+      <li>Diploma in Nutrition and Dietetics</li>
+      <li>Diploma in Nursing</li>
+      <li>Diploma in Computer Engineering</li>
+      <li>Diploma in Textile Designing</li>
+      <li>Diploma in web designing</li>
+      <li>Diploma in Fashion Designing</li>
+      <li>Diploma in Civil Engineering</li>
+      <li>Diploma in Graphic Designing</li>
+      <li>Diploma in Application Software Development – DASD</li>
+      <li>Diploma in Hospital & Health Care Management</li>
+      <li>Diploma in Physical Medicine and Rehabilitation</li>
+      <li>Diploma in Film Arts & A/V Editing</li>
+      <li>Diploma in Information Technology</li>
+      <li>Diploma in Drawing and Painting</li>
+      <li>Diploma in Dress Designing</li>
+      <li>Diploma in Computer Hardware</li>
+      <li>Diploma in Animation and Multimedia</li>
+      <li>Diploma in Mass Media and Creative Writing</li>
+      <li>Diploma in Film Arts & A/V Editing</li>
+      <li>Diploma in Film Making & Digital Video Production</li>
+      <li>Diploma in HR Training</li>
+      <li>Diploma (Air Hostess, Crew)</li>
+      <li>Diploma in Event Management</li>
+      <li>Diploma in Chemical Engineering</li>
+      <li>Diploma in Foreign languages</li>
+      <li>Diploma in Software and Networking</li>
+      <li>Diploma in Cutting and Tailoring</li>
+      <li>Diploma in Beauty Culture & Hair Dressing</li>
+    </ul>
+  </body>
+</html>

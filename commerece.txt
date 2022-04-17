@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pathway</title>
+    <link rel="stylesheet" href="/css/science.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lobster&family=Mochiy+Pop+P+One&family=Roboto+Slab:wght@500&family=Rubik+Beastly&family=Sedgwick+Ave&family=Supermercado+One&family=Yeseva+One&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+
+    <title>
+      Courses After 12th Commerce
+    </title>
+  </head>
+  <body>
+    <nav>
+      <div class="logo">
+        <img src="images/logomain.png" alt="logo" style="max-height: 15vh;" />
+      </div>
+        <h2 id="nav_name">COMMERCE</h2>
+      </div>
+    </nav>
+    <div class="div-header">
+      <h2 class="">
+        List of Professional Courses Commerce Student can Opt after 10+2
+      </h2>
+    </div>
+    <ul class="div-content-elements">
+      <li>Bachelors of Commerce (B.Com)</li>
+      <li>Bachelor of Commerce (Honours) /B.Com (Hons.)</li>
+      <li>Bachelors of Business Administration (BBA)</li>
+      <li>Bachelor of Business Studies (BBS)</li>
+      <li>Bachelors in Economics</li>
+      <li>Bachelor of Management Studies (BMS)</li>
+      <li>Chartered Accountancy (CA)</li>
+      <li>Company Secretary (CS)</li>
+      <li>Certified Financial Planner (CFP)</li>
+      <li>Cost and Management Accountant (CMA)</li>
+      <li>Bachelor of Finance and Accounting (BFA)</li>
+      <li>Bachelor of Law (LLB)</li>
+      <li>Bachelor of Statistics</li>
+      <li>B.Sc. Applied Mathematics</li>
+      <li>B.Sc (Actuarial Science)</li>
+    </ul>
+    <div class="div-header">
+      <h2 class="">B.Com</h2>
+    </div>
+    <div class="div-content-elements-text">
+      <p>
+        Bachelor of Commerce is a three-year degree course that most commerce
+        students pursue after completing their 10+2. After B.com students can go
+        for higher education like M.com, MBA, or may apply for a job.
+      </p>
+      <p>
+        <strong
+          >Some of the subjects that a B.com student have to study during this
+          course are –</strong
+        >
+      </p>
+    </div>
+    <ul class="div-content-elements">
+      <li>Economics</li>
+      <li>Mathematics</li>
+      <li>Auditing</li>
+      <li>Statistics</li>
+      <li>Corporate Accounting</li>
+      <li>Income Tax</li>
+      <li>Human Resource Management</li>
+      <li>Business Environment</li>
+      <li>Management Accounting</li>
+      <li>Marketing</li>
+      <li>Entrepreneurship</li>
+      <li>Business Communications</li>
+      <li>Banking and Insurance</li>
+      <li>Banking and Insurance</li>
+    </ul>
+    <div class="div-content-elements-text">
+      <p>
+        B.com (Hons.), BCom (Accounting), B.Com (Banking & Finance), B.Com
+        (Applied Economics) B.Com (Management Accounting & International
+        Finance) are other courses that offer specialization in a particular
+        discipline. These programs are again a three years bachelor’s degree
+        course.
+      </p>
+    </div>
+    <div class="div-header">
+      <h2 class="">Bachelor of Business Administration- BBA</h2>
+    </div>
+    <div class="div-content-elements-text">
+      <p>
+        Bachelor of Business Administration (BBA) is a professional degree
+        course. The duration of this course is 3 years. Integrated MBA course of
+        5 years is also available that includes both BBA and MBA programs. After
+        B.com and CA, BBA is another popular course that students chose after
+        their schooling. BBA gives industrial and corporate exposure to students
+        and helps to develop his/her managerial and corporate skills.
+      </p>
+      <p>
+        <strong
+          >Some of the subjects that a BBA student has to study during this
+          course are-</strong
+        >
+      </p>
+    </div>
+    <ul class="div-content-elements">
+      <li>Accounting</li>
+      <li>Financial Management</li>
+      <li>Economics</li>
+      <li>Statistics</li>
+      <li>Marketing</li>
+      <li>Human</li>
+      <li>Resource Management</li>
+      <li>Entrepreneurship Skills</li>
+      <li>Business Communications etc.</li>
+    </ul>
+    <div class="div-content-elements-text">
+      <p>
+        Management students have to choose a specialization in Finance, Human
+        Resource, Marketing, International Business, operations, etc during this
+        course.
+      </p>
+    </div>
+    <div class="div-header">
+      <h2 class="">LLB- Law</h2>
+    </div>
+    <div class="div-content-elements-text">
+      <p>
+        Earlier only a graduate candidate was eligible to pursue Law course but
+        now 12th passed commerce students can also go for Laws programs. Some
+        integrated {5 years (3+2} Law programs like B.A LLB, B.com LLB, B.B.A
+        LL.B, and B.Sc LLB.
+      </p>
+      <p>
+        <strong
+          >These are some of the subjects that are studied during this
+          course-</strong
+        >
+      </p>
+    </div>
+    <ul class="div-content-elements">
+      <li>Constitutional Laws</li>
+      <li>Environmental Laws</li>
+      <li>Company Laws</li>
+      <li>Consumer Protection Laws</li>
+      <li>Property Laws</li>
+      <li>Banking Laws</li>
+      <li>Administrative Laws</li>
+      <li>Family Laws</li>
+      <li>Labor and Industrial Laws</li>
+      <li>Human Rights laws</li>
+      <li>Public International Laws</li>
+    </ul>
+    <div class="div-header">
+      <h2 class="">Economics (B.E)</h2>
+    </div>
+    <div class="div-content-elements-text">
+      <p>
+        Bachelor of Economics is a 3 years degree course. After completing this
+        course you can apply for a job in the private or government sector.
+      </p>
+      <p>
+        <strong
+          >Some of the major subjects that are covered under this course are
+          –</strong
+        >
+      </p>
+    </div>
+    <ul class="div-content-elements">
+      <li>Macro Economics</li>
+      <li>Micro Economics</li>
+      <li>Agricultural Economics</li>
+      <li>Indian Economics</li>
+      <li>Public Finance</li>
+      <li>Principles of Economics</li>
+      <li>Industrial Economics</li>
+      <li>Banking Economics etc.</li>
+    </ul>
+    <div class="div-content-elements-text">
+      <p>
+        <strong
+          >Economists, statisticians, strategists, risk management analysts,
+          operations research analysts, insurance underwriters, budget
+          analysts,</strong
+        >etc are some of the career options that are open for you after
+        completing a Bachelor’s in economics or B.A economics.
+      </p>
+    </div>
+    <div class="div-header">
+      <h2 class="">CA (Chartered Accountant)</h2>
+    </div>
+    <div class="div-content-elements-text">
+      <p>
+        CA stand for Chartered Accountant is considered to be one of the
+        toughest courses but the career prospects are too high. It is basically
+        a course that is managed by the Institute of Chartered Accountants of
+        India (ICAI) and includes several papers.
+      </p>
+      <p>
+        According to the latest decision of the council, the duration of the
+        Charter Accountant course has been reduced from 5 years 3 months to 3.5
+        years.
+      </p>
+
+      <p><strong>C.A includes subjects such as-</strong></p>
+    </div>
+    <ul class="div-content-elements">
+      <li>Accounting</li>
+      <li>Taxation</li>
+      <li>Auditing</li>
+      <li>Tax Laws</li>
+      <li>Economics</li>
+      <li>Business Laws</li>
+      <li>Corporate Laws</li>
+      <li>Financial Management</li>
+      <li>Business Communication etc.</li>
+    </ul>
+    <div class="div-header">
+      <h2 class="">Actuarial Science</h2>
+    </div>
+    <div class="div-content-elements-text">
+      <p>
+        Actuarial science is now in India and slowly it is getting popularity.
+        Actuarial science basically involves knowledge of mathematics,
+        statistics, insurance, and investment. B.sc Actuarial Science is a
+        course that a commerce student can opt after 12th. There is a huge
+        demand for Actuaries outside India.
+      </p>
+      <p>
+        Some of the tasks that an Actuary performs in a company are product
+        pricing, valuations, risk management, carrying out peer reviews,
+        financial modeling, designing social security schemes, etc.
+      </p>
+
+      <p><strong>In India, an actuary can work in a field like-</strong></p>
+    </div>
+    <ul class="div-content-elements">
+      <li>General Insurance</li>
+      <li>Health Insurance</li>
+      <li>Investments</li>
+      <li>Government</li>
+      <li>Consultants</li>
+      <li>Reinsurance Companies</li>
+      <li>Pension Funds</li>
+      <li>Academics</li>
+      <li>Risk Management etc.</li>
+    </ul>
+    <div class="div-header">
+      <h1 class="">Course for 12th Class Commerce Without Mathematics</h1>
+    </div>
+    <div class="div-content-elements-text">
+      <p>
+        A lot of students out there who haven’t done 12th commerce with
+        mathematics so, these types of candidates also have numerous
+        opportunities (courses). Check out the upcoming section of this passage
+        to know more about these programs.
+      </p>
+    </div>
+    <ul class="div-content-elements">
+      <li>
+        <strong>B. Com (Marketing)–</strong>In this course, students will come
+        to know about marketing strategies, process to manage marketing
+        activities, etc. There are good career opportunities, as you know well
+        that business marketing is one of the fours pillars of any organization.
+      </li>
+      <li>
+        <strong>B. Com (General)-</strong> This is a common course in which all
+        those applicants who didn’t have mathematics with commerce in 12th class
+        can select.
+      </li>
+      <li>
+        <strong>B. Com (Travel & Tourism Management)- </strong>This course is
+        specifically for those candidates who are willing to explore in the
+        field of travel & tourism. From B.Com (Travel & Tourism Management)
+        program, aspirants will experience the working both practically and
+        theoretically.
+      </li>
+      <li>
+        <strong>B. Com (Business Administration)-</strong>Under this course,
+        students will get exposure to Corporate Accounting, Business Management,
+        Business Law, Retail Management, Marketing, Business Organisation,
+        Business Comm., Corporate Law, etc.
+      </li>
+    </ul>
+    <div class="div-header">
+      <h1 class="">Some Other Courses After 12th Commerce Stream</h1>
+    </div>
+    <div class="div-content-elements-text">
+      <div class="div-content-elements-text">
+        <p>
+          Here are some of the courses that a commerce student can opt for after
+          the 12th standard.
+        </p>
+      </div>
+    </div>
+    <ul class="div-content-elements">
+      <li>BA in Humanities & Social Sciences</li>
+      <li>Diploma in Education (D.Ed)</li>
+      <li>BA in Arts (Fine/Visual/Performing)</li>
+      <li>Bachelor of Fine Arts (BFA)</li>
+      <li>Bachelor of Journalism (BJ)</li>
+      <li>Bachelor of Computer Application (BCA)</li>
+      <li>BA in Hospitality & Travel</li>
+      <li>Sc in Hospitality & Travel</li>
+      <li>Sc in Design</li>
+      <li>BA in Animation</li>
+      <li>Sc. Animation and Multimedia</li>
+      <li>Des in Animation</li>
+      <li>Bachelor of Mass Media (BMM)</li>
+      <li>Bachelor of Journalism & Mass Communication (BJMC)</li>
+      <li>BHM in Hospitality & Travel</li>
+      <li>Bachelor of Social Work (BSW)</li>
+      <li>Bachelor of Event Management (BEM)</li>
+      <li>Bachelor of Fashion Design (BFD)</li>
+      <li>Diploma in Elementary Education (El. Ed)</li>
+    </ul>
+  </body>
+</html>

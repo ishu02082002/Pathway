@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pathway</title>
+    <link rel="stylesheet" href="/css/science.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lobster&family=Mochiy+Pop+P+One&family=Roboto+Slab:wght@500&family=Rubik+Beastly&family=Sedgwick+Ave&family=Supermercado+One&family=Yeseva+One&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+
+  </head>
+  <body>
+    <nav>
+      <div class="logo">
+        <img src="images/logomain.png" alt="logo" style="max-height: 15vh;" />
+      </div>
+        <h2 id="nav_name">ARTS</h2>
+      </div>
+    </nav>
+    <div class="content">
+      <div class="div-header">
+    <h2 class="">BACHELORS OF ARTS (B.A)</h2>
+  </div>
+            <p class="">This is a full-time course for 3 years. It is an undergraduate course in social science, humanities, and liberal arts. Available in different specializations like History, Geology, Archaeology, Literature, Journalism, Mass and Communication, Environmental science being part of major and some subjects as elective subjects.BA is one of the most common degrees for Arts students. This has a wide variety of flexibility, cultural understanding, critical thinking ability, communication skills, and analytical skills. After completing a bachelor’s degree in arts students may choose job opportunities in aviation, tourism, hospitality, Banking, finance sector, media, entertainment, government jobs. bs. bs.  </p>
+                <h2 id="" class="">Salary ranges on an Average – 4,33,106 </h2>
+                    <h2 class="">Job opportunities:</h2>
+                        <ul class="">
+                            <li>Content writer</li>
+                            <li>Executive Assistant </li>
+                            <li>Human Resource Manager (HR) </li>
+                        </ul>
+                    <h2 class="">Popular Companies hires for Bachelors in Arts </h2>
+                        <ul>
+                            <li>Tata Consultancy Services </li>
+                            <li>Accenture </li>
+                            <li>HDFC</li>
+                            <li>HCL Technologies </li>
+                            <li>Concentrix Corporation </li>
+                        </ul>
+                <div class="div-header">
+    <h2 class="">2.Bachelors of fine arts (B.F.A)</h2>
+  </div>
+
+            <p class=""> If you are confused and wondering what to do after the 12th, you may choose BFA. One of the extremely popular career options after the 12th is studying arts. Bachelors of fine arts are the best career options for students who are interested in fine arts, painting, singing, dancing, theatre, music, film making, Pottery and ceramic, content writing, Architectural drawings, Textile designing, animations, etc. As the Bachelor of arts, this is a 3 years degree course. For pursuing a career in BFA you must have excellent creative, artistic, visualization, or presentation skills. Fine arts have become prestigious and synonymous with wider career options for art students. </p>
+                <h2 class=""> The Average Salary for BFA is – 5,30,422 </h2>
+                    <h2 class="">BFA can choose job opportunities like:  </h2>
+                        <ul>
+                            <li>Teacher/ Professors </li>
+                            <li>Professional Dancer/ Singers</li>
+                            <li>Art Directors </li>
+                            <li>Creative Writers </li>
+                            <li>Theatre actors </li>
+                            <li>Creative Directors </li>
+                            <li> Graphics Designer </li>
+                            <li> Senior Graphics designer</li>
+                            <li> Animators</li>
+                         </ul>
+                         <div class="div-header">
+    <h2 class="">3.Bachelors of Business Administration </h2>
+  </div>
+            <p> If you are confused and wondering what to do after the 12th, you may choose BFA. One of the very popular career options after the 12th is studying arts. This is one of the best courses to pursue after the 12th. The best thing about this course is you can pursue this coming from any of the backgrounds like science, commerce, or arts. If you have an interest or want to make a career in Business, Sales, Marketing this is one of the best Career options you can choose.
+                Some popular and well-known specializations are HR management, Marketing, and Sales, Finances. Students pursuing BBA can take full-time or executive/ online courses. You can pursue this degree as a working associate as well.
+                Students who opt to make a career in BBA must have effective communication skills, problem–solving mindset, and management skills. This can lead you to high-profile jobs. If you pursue an MBA (Master in Business Administration) degree after completing BBA. This will boost your skill and profile and would make you irreplaceable. You will land the best high-paid jobs in the market. </p>
+                <h2 class="">The Average Salary for BFA is – 4,42,251 </h2>
+                    <h2 class=""> Job opportunities: </h2>
+                        <ul>
+                            <li>Financial Analyst </li>
+                            <li> Marketing Managers </li>
+                            <li> Human Resources Managers (HR)</li>
+                            <li> Sales and Marketing executives </li>
+                            <li> HR executives </li>
+                            <li>R&D executives. </li>
+                        </ul>
+                        <div class="div-header">
+    <h2>4.Integrated Law Course (B.A + L.L.B)</h2>
+  </div>
+            <p> you are looking forward to pursuing a career in law this could be the best career option after the 12th. As the name suggests Bachelor of arts and law integration. The course duration for this integration is 5 years. The biggest advantage of pursuing this course is to obtain dual degrees in one curriculum.
+                The syllabus is planned in such a way that students will be learning the Bachelors of Arts and LLB program. You will have law subjects like criminal law, company or corporate law, evidence law, environmental law, civil procedure code (CPC). For pursuing LLB you require a bachelor’s degree so this is the best option to choose an integrated course for 5 years.</p>
+                <h2>Average salary ranges from 5,00,000- 8,00,000</h2>
+                    <h2> Career options after (B. A+LLB)</h2>
+                        <ul>
+                            <li> Company secretary </li>
+                            <li>Legal Advisor </li>
+                            <li>Litigation Lawyer</li>
+                        </ul>
+                        <div class="div-header">
+   <h2>5.Bachelors of Journalism and Mass Communication </h2>
+ </div>
+    <p> you still looking for an option in deciding could be the best career option after the 12th?</p>
+    <p>The bachelor of journalism and mass communication is a bachelor undergraduate degree for 3 years. This is a full-time course divided into 6 semesters. The course includes various fields like television, advertisements, television productions, writing things, social media, film studies, media law and ethics, event management. The course expects students to develop relevant domain knowledge of journalism and mass communications and in determining its features and usage. This program aims to create socially responsible media professionals who are more data-oriented and excel in communication skills.</p>
+                <h2>The Average Salary for Bachelors of Journalism and Mass Communication is – 4, 26,474</h2>
+                    <h2>areer options after (Bachelors of Journalism and Mass Communication) </h2>
+                        <ul>
+                            <li>Content writer</li>
+                            <li>Copywriter</li>
+                            <li>Marketing executive</li>
+                        </ul>
+                        <div class="div-header">
+    <h2>6.Bachelors in Fashion Designing</h2>
+  </div>
+        <p>Bachelor in Fashion Designing is one the best career option after the 12th. This is a 3 to 4 years long graduate course designed for students aspiring to join the fashion industry. This follows the dynamic trend and teaches enthusiasts the design of garments, jewelry, footwear, and accessories, etc.</p>
+        <p>course is best suited for students with an innovative mind and industry-specific skills like visual sensibility, global vision, sense of color pallets, sewing, and much more. </p>
+        <p>have career opportunities like Fashion consultant, Textile designer, Merchandiser, Garments sample coordinator, etc. </p>
+                <h2>Bachelors of Design average salary – 5,93,218 </h2>
+                    <h2>Career options after (Bachelors in Fashion Designing)</h2>
+                        <ul>
+                            <li>Fashion Designer </li>
+                            <li>Design Manager </li>
+                            <li>Fashion Stylist </li>
+                        <ul>
+                          <div class="div-header">
+    <h2>7.Bachelors of Hotel Management</h2>
+  </div>
+        <p>Bachelor of Hotel Management is one the best career option after the 12th. Bachelors of Hotel Management is a 3-4 years degree course that teaches the student about hospitality. This course covers areas like tourism, event management, food, and beverage industry. During the course tenure, students are trained in communication skills, negotiation skills, interpersonal skills, customer service skills. This is one of the most preferred courses after the 12th.</p>
+            <h2>Average Salary – 1,370,000 </h2>
+            <h2>Career options after BHM are:</h2>
+                        <ul>
+                            <li>Hotel Manager</li>
+                            <li>Accommodation Manager </li>
+                            <li>Meeting & Event Planner </li>
+                            <li>Food and Service Manager </li>
+                            <li>Catering officer </li>
+                            <li>Manager </li>
+                            <li>Food and Beverage Manager</li>
+                            <li>Area Retail Manager </li>
+                            <li>General Manager Hotel </li>
+                            <li>Human Resource Assistant </li>
+                        </ul>
+<div class="div-header">
+    <h2>8. Event Management</h2>
+  </div>
+        <p>If you have not decided which of the above courses you should opt for. You can think about doing Event Management as this is one of the best choices after the 12th. Events have become an important part of our lives whether its music, television, politics, or sports. This is a full-time 3years course. Pursuing a career in management will make you a successful event manager. This will help you build skills in the field of event building, project planning, reporting, and marketing. In today’s time, there is a huge demand for event managers.</p>
+            <h2>The average salary for event management is – 6,25,000 </h2>
+            <h2>Job opportunities are:</h2>
+                        <ul>
+                             <li>Event Planner</li>
+                            <li> Event Manager</li>
+                            <li> Wedding Planner</li>
+                            <li>Stage decorator </li>
+                            <li>Exhibition Organizer</li>
+                        </ul>
+<div class="div-header">
+   <h2>9. Sociology </h2>
+ </div>
+    <p> you are confused about which subject you should choose in pursuing Bachelors in Arts after 12th. If you are interested in studying society and town planning, a Bachelor’s in Sociology could be one of the best career options for you after the 12th. This course will help you understand the way society operates. Various society problems and how to handle them. This is a 3years course.</p>
+            <h2>Average Salary for Sociology – 4,00,000 </h2>
+            <h2>Job opportunities are: </h2>
+                        <ul>
+                            <li> Worker </li>
+                            <li> Journalist </li>
+                            <li> Rehabilitation Counsellor</li>
+                            <li> Family Counsellors </li>
+                            <li> Survey Research </li>
+                            <li> Political analyst</li>
+                        </ul>
+<div class="div-header">
+   <h2> 10. Political Science</h2>
+ </div>
+    <p>you are confused about which subject you should choose in pursuing Bachelors in Arts after 12th. If you are interested in studying politics and administration, a Bachelor’s in Political Science could be one of the best career options for you after the 12th. This is a 3 years course. This course gives you an idea about the Indian political system, constitution, and other countries’ constitutions and political systems. After completing your bachelor’s degree, you can go for UPSC, civil services exam or students aspiring to become IAS officers should take this course. </p>
+            <h2>Average Salary for Sociology – 6,10,419 </h2>
+            <h2> opportunities are: </h2>
+                        <ul>
+                            <li>Business executive </li>
+                            <li> Political scientist</li>
+                            <li> consultant </li>
+                            <li>Lobbyist </li>
+                            <li>Professors </li>
+                            <li>Government official</li>
+                        </ul>
+                        <div class="div-header">
+   <h2>11.Economics</h2>
+ </div>
+        <p>you are confused about which subject you should choose in pursuing Bachelors in Arts after 12th. If you are interested in studying statistical analytics and theories. Bachelor in Economics could be one of the best career options for you after the 12th. This is a 3 years course. Students can pursue MBA degrees after their Bachelor’s degree. This course gives you an idea about the economy. A Master in Economics is also a good option for students pursuing bachelor’s degrees if they are interested in becoming a professor. This course will help you in landing the highest-paid jobs in India.</p>
+            <h2>Average Salary range from 1,80,000 to 14,00,000</h2>
+            <h2>Job opportunities are:</h2>
+                        <ul>
+                            <li> Economist </li>
+                            <li> Financial Risk analyst </li>
+                            <li> analyst </li>
+                            <li>Accountant </li>
+                            <li>Financial consultant</li>
+                            <li>Investment analyst</ll>
+
+                        <ul>
+
+<div class="div-header">
+    <h2>12. English</h2>
+  </div>
+         <p>you are confused about which subject you should choose in pursuing Bachelors in Arts after 12th. If you are interested in literature. A Bachelor’s in English could be one of the best career options for you after the 12th. This is a 3 years course. This course gives your insight into various writers, poets, dramatists. The students who pursue this degree could become content writers, English newsreaders, and many more options. </p>
+            <h2> The Average Salary for BA English is – 4,13,822</h2>
+            <h2>Job opportunities are: <h2>
+                        <ul>
+                            <li> Professor </li>
+                            <li>Content Writer</li>
+                            <li>Journalist </li>
+                            <li>Copywriter </li>
+                            <li>Feature Writer </li>
+                            <li>Script Writer </li>
+                            <li> Public servants</li>
+                        </ul>
+    </div>
+    </body>
